@@ -2,8 +2,7 @@
  
 - 🔭 Atualmente eu estudo back-end
 - 🌱 Me expecialiando em Java
-- 💬 Ask me about ...
-- 📫 Contate-me no email: giovannabarbosah38@gmail.com
+- 📫 Contate-me no email: mariiaclarawsz@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
