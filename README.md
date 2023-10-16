@@ -23,7 +23,7 @@
 
   <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
   **UNINOVE (Universidade Nove de Julho)** \
-  Graduation in System Analysis and Development \
+  Graduation in Information systems \
   <i>Jul. 2025</i> - <i>currently now...</i>
   
   <br>
