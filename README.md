@@ -21,7 +21,7 @@
 
 ###
 
-  <a href="https://www.uninove.br/icon.png"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
+  <img src="[URL_da_Imagem](https://www.uninove.br/icon.png)" alt="Uninove">
   **UNINOVE (Universidade Nove de Julho)** \
   Graduation in Information systems \
   <i>Dez. 2027</i> - <i>Currently now...</i>
