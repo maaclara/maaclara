@@ -21,7 +21,7 @@
 
 ###
 
-  <a href="[https://www.uninove.br/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uninove.br%2Fcursos%2Fgraduacao-ead%2Fead&psig=AOvVaw2s6N71uE4r5pZoRL58Oo7N&ust=1697646786964000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCLzqDB_YEDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uninove.br%2Fcursos%2Fgraduacao-ead%2Fead&psig=AOvVaw2s6N71uE4r5pZoRL58Oo7N&ust=1697646786964000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCLzqDB_YEDFQAAAAAdAAAAABAD"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
+  <a href="https://www.uninove.br/icon.png"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
   **UNINOVE (Universidade Nove de Julho)** \
   Graduation in Information systems \
   <i>Dez. 2027</i> - <i>Currently now...</i>
