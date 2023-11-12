@@ -7,6 +7,9 @@
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=maaclara&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maaclara&theme=radical) |
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=maaclara&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=maaclara&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
+
+ <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ 
 <br>
 
 💬 **▸ Socials & Contacts:**
@@ -15,22 +18,20 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maaclaraw)
   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariiaclarawsz@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-179828?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511970481305)
+
   
 
-  <img align="left" height="70" width="80" src="https://yt3.googleusercontent.com/ytc/APkrFKYDBCYnBSI24NhcsnDQBRntcihvSMkgx3bBPa4Z=s900-c-k-c0x00ffffff-no-rj" />
+
+<br>
+
+  <img align="left" height="100" width="90" src="https://www.uninove.br/logo-uninove.svg" />
 
 
-## Education
-
-###
-
-  <img src="[URL_da_Imagem](https://www.uninove.br/icon.png)" alt="Uninove">
+### Education ###
   **UNINOVE (Universidade Nove de Julho)** \
   Graduation in Information systems \
   <i>Dez. 2027</i> - <i>Currently now...</i>
 
-
- <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   
   <br>
 
