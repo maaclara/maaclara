@@ -25,6 +25,10 @@
   **UNINOVE (Universidade Nove de Julho)** \
   Graduation in Information systems \
   <i>Dez. 2027</i> - <i>Currently now...</i>
+
+
+  <i class="devicon-java-plain-wordmark"></i>
+
   
   <br>
 
