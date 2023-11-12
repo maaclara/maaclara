@@ -15,6 +15,9 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maaclaraw)
   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariiaclarawsz@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-179828?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511970481305)
+  
+
+  <img align="left" height="70" width="80" src="https://yt3.googleusercontent.com/ytc/APkrFKYDBCYnBSI24NhcsnDQBRntcihvSMkgx3bBPa4Z=s900-c-k-c0x00ffffff-no-rj" />
 
 
 ## Education
@@ -27,9 +30,7 @@
   <i>Dez. 2027</i> - <i>Currently now...</i>
 
 
-<img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
-
+ <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   
   <br>
 
