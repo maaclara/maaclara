@@ -27,7 +27,8 @@
   <i>Dez. 2027</i> - <i>Currently now...</i>
 
 
-  <i class="devicon-java-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 
   
   <br>
