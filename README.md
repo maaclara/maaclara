@@ -49,4 +49,6 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
+<div align=center>
+<img height="100em" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+</div>
